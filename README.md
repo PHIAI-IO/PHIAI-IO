@@ -51,7 +51,7 @@ daily by a B2B sales force, and the reporting pipeline behind it.
 
 **Sistemas agênticos que operam negócios de verdade — e o rigor de verificar os números que eles produzem.**
 
-A maior parte do trabalho com IA para em *"respondeu"*. A pergunta difícil é se o que ele diz é
+A maior parte do trabalho com IA se contenta com *"respondeu"*. A pergunta difícil é se o que ele diz é
 **verdade**. O que está aqui foi construído para essa segunda metade.
 
 **[mcp-comex-brasil](https://github.com/PHIAI-IO/mcp-comex-brasil)** — servidor MCP de comércio
