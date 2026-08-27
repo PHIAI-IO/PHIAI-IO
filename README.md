@@ -38,11 +38,9 @@ what it does not cover.
 
 ### Who
 
-Built by **Luis Delfin** — Market Intelligence Lead at JOTA Switzerland Brasil, where these
-ideas run in production: an ERP-integrated commercial OS with agents used daily by a B2B sales
-force, and the reporting pipeline behind it.
-
-Twenty months before that, warehouse floor. The method is not academic.
+Built by **Luis Delfin** — Market Intelligence Lead at JOTA Switzerland Brasil, where the
+same approach runs in production: an ERP-integrated commercial platform with AI agents used
+daily by a B2B sales force, and the reporting pipeline behind it.
 
 [phiai.io](https://phiai.io) · [LinkedIn](https://www.linkedin.com/in/luis-delfin/)
 
